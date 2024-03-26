@@ -12,9 +12,6 @@ In the folder "tornado", there are 2 different implementations of websocket comm
 ## Requirements
 * Install all modules inside requirements.txt. Suggested way is to follow the following steps:
 ```
-brew install miniforge
-conda init zsh
-(restart terminal)
 cd <path to mywebsocket>
 conda create --name mywebsocketenv python=3.9
 conda activate mywebsocketenv
